@@ -1,0 +1,9 @@
+export const RawData = [
+    {id:1, title:'html', description:'The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. '},
+    {id:2, title:'css', description:'Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.'},
+    {id:3, title:'javascript', description:'JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.'},
+    {id:4, title:'java', description:'Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.'},
+    {id:5, title:'python', description:'Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.'},
+    {id:6, title:'c', description:'C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, Cs features cleanly reflect the capabilities of the targeted CPUs.'},  
+    {id:7, title:'c++', description:'C++ is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup.'}
+];
